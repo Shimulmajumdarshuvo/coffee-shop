@@ -1,0 +1,13 @@
+i{
+	color: red;
+	text-align: center;
+}
+.demo{
+	text-align: center;
+}
+.demo :before{
+	content: "\f39e";
+	font-family: "Font Awesome 5 Brands";
+	font-weight: 400;
+	font-size: 34px;
+}
